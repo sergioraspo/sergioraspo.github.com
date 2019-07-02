@@ -2,8 +2,7 @@
 title: "Basic statistic for data science"
 author: "Sergio H. Raspo"
 date: "2/7/2019"
-output: 
-html_document:
+output: html_document:
  theme: spacelab 
  toc: true
  toc_depth: 3 
