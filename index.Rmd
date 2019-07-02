@@ -33,6 +33,16 @@ Am just learning the MOOC CBDS+ complete new in the field
 
 Develop website about statitisc of public health (am working on it)
 
+## Profiles
+
+* [Linkedin](https://www.linkedin.com/in/sergiohraspo/)
+* [Github](https://github.com/sergioraspo)
+
+## Contact me
+
+[mail to: sergioraspo@gmail.com](sergioraspo@gmail.com)
+
+
 ## Including Plots
 
 You can also embed plots, for example:
