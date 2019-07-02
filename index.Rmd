@@ -3,6 +3,7 @@ title: "Basic statistic for data science"
 author: "Sergio H. Raspo"
 date: "2/7/2019"
 output: html_document
+theme: spacelab 
 ---
 
 ```{r setup, include=FALSE}
