@@ -2,27 +2,12 @@
 title: "Basic statistic for data science"
 author: "Sergio H. Raspo"
 date: "2/7/2019"
-output: html_document:
- theme: spacelab 
- toc: true
- toc_depth: 3 
- toc_float: true
+output: 
+  html_document:
+    theme: spacelab 
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-str(cars)
-```
 ## About 
 
 Am just learning the MOOC CBDS+ complete new in the field
@@ -36,6 +21,7 @@ Am just learning the MOOC CBDS+ complete new in the field
 ## Projects
 
 Develop website about statitisc of public health (am working on it)
+Also this website it is my first project.
 
 ## Profiles
 
@@ -44,7 +30,7 @@ Develop website about statitisc of public health (am working on it)
 
 ## Contact me
 
-[mail to: sergioraspo@gmail.com](sergioraspo@gmail.com)
+[sergioraspo@gmail.com](sergioraspo@gmail.com)
 
 
 ## Including Plots
