@@ -38,6 +38,13 @@ Also this website it is my first project.
 
 [sergioraspo@gmail.com](sergioraspo@gmail.com)
 
+## some basics issues
+
+```{r}
+str(mtcars)
+dim(mtcars)
+```
+
 
 ## Including Plots
 
