@@ -3,17 +3,17 @@ title: "Basic statistic for data science"
 author: "Sergio H. Raspo"
 date: "2/7/2019"
 output:
-  word_document:
-    toc: yes
-    toc_depth: '3'
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
   html_document:
     theme: spacelab
     toc: yes
     toc_depth: 3
     toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  word_document:
+    toc: yes
+    toc_depth: '3'
 ---
 
 
@@ -48,6 +48,10 @@ Also this website it is my first project.
 
 
 ```{r}
+
+library(tidyr)
+
+library(ggplot2)
 
 str(airquality) 
 
