@@ -3,14 +3,17 @@ title: "Basic statistic for data science"
 author: "Sergio H. Raspo"
 date: "2/7/2019"
 output:
+  word_document:
+    toc: yes
+    toc_depth: '3'
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
   html_document:
     theme: spacelab
     toc: yes
     toc_depth: 3
     toc_float: yes
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
 ---
 
 
@@ -43,7 +46,6 @@ Also this website it is my first project.
 
 ## some basics issues
 
-library(tidyr)
 
 ```{r}
 
@@ -53,13 +55,20 @@ dim(airquality)
 
 head(airquality)
 
+str(diamonds)
+
+head(diamonds)
+
 ```
 
+## Scatterplot
+
+
 ```{r}
-str(diamonds)
 
 ggplot(data = diamonds)+
   geom_point(mapping = aes(x = carat, y = price))
+
 ```
 
 
