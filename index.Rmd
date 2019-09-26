@@ -2,12 +2,15 @@
 title: "Basic statistic for data science"
 author: "Sergio H. Raspo"
 date: "2/7/2019"
-output: 
+output:
   html_document:
-    theme: spacelab 
-    toc: true
+    theme: spacelab
+    toc: yes
     toc_depth: 3
-    toc_float: true
+    toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
 ---
 
 
@@ -40,10 +43,25 @@ Also this website it is my first project.
 
 ## some basics issues
 
+library(tidyr)
+
 ```{r}
-str(mtcars)
-dim(mtcars)
+
+str(airquality) 
+
+dim(airquality)
+
+head(airquality)
+
 ```
+
+```{r}
+str(diamonds)
+
+ggplot(data = diamonds)+
+  geom_point(mapping = aes(x = carat, y = price))
+```
+
 
 
 ## Including Plots
