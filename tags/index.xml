@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Academic</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>img/map[avatar:sergioraspo.png gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>/tags/data-analysis/</link>
+      <pubDate>Sun, 23 Feb 2020 21:13:14 -0500</pubDate>
+      <guid>/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>/tags/data-visualization/</link>
+      <pubDate>Sun, 23 Feb 2020 21:13:14 -0500</pubDate>
+      <guid>/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Wrangling</title>
+      <link>/tags/data-wrangling/</link>
+      <pubDate>Sun, 23 Feb 2020 21:13:14 -0500</pubDate>
+      <guid>/tags/data-wrangling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Sun, 23 Feb 2020 21:13:14 -0500</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

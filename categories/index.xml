@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Academic</title>
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>img/map[avatar:sergioraspo.png gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Sun, 23 Feb 2020 21:13:14 -0500</pubDate>
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
